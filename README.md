@@ -7,6 +7,7 @@ A repository for my first C++ project, boids.
   (for parallel processing)
 
 - Issues that you will see that I will have to fix in future projects
+  
   ~ Header file structuring is weird, first time making a multifile project
   
   ~ Vectors should probably be done with pointers to be more efficient to prevent
