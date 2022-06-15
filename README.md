@@ -1,5 +1,8 @@
 # SlowBoids
 A repository for my first C++ project, boids.
+- Made with C++ and SDL2. Sounds and music are royalty free,
+  obstacle and boid sprites are made by me.
+- A decent computer should be able to run 2500 boids
 - Issues that you will see that I will have to fix in future projects
 - Header file structuring is weird, first time making a multifile project
 - Vectors should probably be done with pointers to be more efficient to prevent
