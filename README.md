@@ -1,7 +1,7 @@
 # SlowBoids
 A repository for my first C++ project, boids.
 - Issues that you will see that I will have to fix in future projects
-- Header file structuring is weird
+- Header file structuring is weird, first time making a multifile project
 - Vectors should probably be done with pointers to be more efficient to prevent
   objects being copied a bunch of times.
 - More stuff should be put into initialize.cpp, less stuff for main.cpp
