@@ -1,4 +1,4 @@
-# SlowBoids
+# Boids
 A repository for my first C++ project, boids.
 - Made with C++ and SDL2. Sounds and music are royalty free,
   obstacle and boid sprites are made by me.
